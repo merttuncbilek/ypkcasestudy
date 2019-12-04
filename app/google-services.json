@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "947623608078",
+    "firebase_url": "https://yapikredicase.firebaseio.com",
+    "project_id": "yapikredicase",
+    "storage_bucket": "yapikredicase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:947623608078:android:ddbbfd6cb07f83288da15f",
+        "android_client_info": {
+          "package_name": "com.mert.ypkcasestudy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "947623608078-0q5kg0mkgilkfctgc27n0k7u1p3psirk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6Ka8nUhx4FwFJQYqPJ7A-cDcHXduCfP0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "947623608078-0q5kg0mkgilkfctgc27n0k7u1p3psirk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

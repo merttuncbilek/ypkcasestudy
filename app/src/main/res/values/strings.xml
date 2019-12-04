@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">YpkCaseStudy</string>
+
+    <string name="prompt_email">Email</string>
+    <string name="prompt_name">Name</string>
+    <string name="prompt_surname">Surname</string>
+    <string name="action_sign_in">Sign in</string>
+    <string name="action_register">Register</string>
+    <string name="action_sign_up">Register an account</string>
+    <string name="action_update">Update</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_name">Name must be at least 3 char</string>
+    <string name="invalid_surname">Surname must be at least 3 char</string>
+    <string name="login_failed">"Login failed"</string>
+    <string name="register_failed">"Register failed"</string>
+    <string name="service_error_user_not_found">"User Not Found"</string>
+    <string name="user_update_success">"Update Completed"</string>
+</resources>
