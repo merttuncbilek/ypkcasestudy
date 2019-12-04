@@ -1,4 +1,3 @@
-# ypkcasestudy
-YapıKredi Case Project
+# YapıKredi Case Project
 
 Mert Tunçbilek
